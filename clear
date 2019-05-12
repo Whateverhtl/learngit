@@ -1,0 +1,29 @@
+[33mcommit 330627b9df79e609b813352dc480155cc53eef3b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: htl <986061148@qq.com>
+Date:   Sun May 12 16:16:34 2019 +0800
+
+    remove test.txt
+
+[33mcommit a210f59b40fd901db4ca1aa5d7fdbc99b1844931[m
+Author: htl <986061148@qq.com>
+Date:   Sun May 12 16:14:54 2019 +0800
+
+    add test.txt
+
+[33mcommit 5955cf2e9857ed7496181834855bf6972502b438[m
+Author: htl <986061148@qq.com>
+Date:   Sun May 12 15:20:43 2019 +0800
+
+    appedn GPL
+
+[33mcommit 2f36f4d851d70f88274b138b44cff74c98b8880f[m
+Author: htl <986061148@qq.com>
+Date:   Sun May 12 14:39:00 2019 +0800
+
+    add distributed
+
+[33mcommit feb51802a3b126cf65b24d38062546d558343f60[m
+Author: htl <986061148@qq.com>
+Date:   Sun May 12 14:33:00 2019 +0800
+
+    wrote a readme file
